@@ -21,7 +21,7 @@ options(scipen=999)
 
 # Ejercicios de Combinatoria 1 con soluciones
 
-Breves soluciones de los problemas
+Breves soluciones de los problemas.
 
 ## Problema 1.
 
